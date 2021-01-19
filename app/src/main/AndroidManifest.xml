@@ -12,10 +12,28 @@
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".eje1"></activity>
+        <activity android:name=".eje2"></activity>
+
+        <activity android:name=".eje3"></activity>
+
+        <activity android:name=".eje4"></activity>
+
+        <activity android:name=".eje5"></activity>
+
+        <activity android:name=".eje6"></activity>
+
+        <activity android:name=".eje7"></activity>
+
+        <activity android:name=".eje9"></activity>
+
+        <activity android:name=".eje8"></activity>
+        <activity android:name=".eje10"></activity>
+
+
     </application>
 
 </manifest>
